@@ -1,0 +1,39 @@
+{
+  "META": {
+    "parseme_version": "1.1",
+    "parseme_json_version": "2.0",
+    "filename_mapping": {
+      "1": "data.transformed.parsemetsv",
+      "2": "pilot200-tsv-pos.folia.xml",
+      "3": "with-verbs-1.txt.parseme.folia.xml",
+      "4": "with-verbs-2.txt.parseme.folia.xml",
+      "5": "with-verbs-3.txt.parseme.folia.xml",
+      "6": "with-verbs-10.txt.parseme.folia.xml",
+      "7": "with-verbs-14.txt.parseme.folia.xml",
+      "8": "with-verbs-15.txt.parseme.folia.xml",
+      "9": "with-verbs-16.txt.parseme.folia.xml"
+    }
+  },
+  "DECISIONS": {
+    "MWE_KEY=[[9, 207, [4, 5, 6, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc",
+        ","
+      ]
+    },
+    "MWE_KEY=[[1, 14491, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "uitându",
+        "-mă"
+      ]
+    }
+  }
+}
