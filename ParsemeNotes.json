@@ -34,6 +34,15 @@
         "uitându",
         "-mă"
       ]
+    },
+    "MWE_KEY=[[1, 20889, [0, 1]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "Împărtășindu",
+        "-ne"
+      ]
     }
   }
 }
