@@ -1,0 +1,9 @@
+pune accent = VID
+avea acces = LVC.full (test LVC4)
+fi de acord = VID
+cădea de acord = VID
+încheia un acord = -----------
+și- da acordul = VID
+aduce îmbunătățiri = -------
+aduce contribuții = --------
+da afară = VID
