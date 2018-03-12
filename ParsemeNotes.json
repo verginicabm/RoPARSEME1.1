@@ -1130,6 +1130,33 @@
         "se",
         "află"
       ]
+    },
+    "MWE_KEY=[[1, 43880, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "află"
+      ]
+    },
+    "MWE_KEY=[[1, 44229, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "Se",
+        "află"
+      ]
+    },
+    "MWE_KEY=[[9, 595, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "află"
+      ]
     }
   }
 }
