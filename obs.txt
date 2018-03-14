@@ -52,3 +52,6 @@ face demersuri = ---------
 depune demisia = --------
 prezenta demisia = -------
 efectua o deplasare = --------
+purta discuție = VID
+pune la dispoziția = LVC.cause
+sta la dispoziția = VID
