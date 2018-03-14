@@ -3212,6 +3212,894 @@
         "Se",
         "consideră"
       ]
+    },
+    "MWE_KEY=[[9, 800, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "constată"
+      ]
+    },
+    "MWE_KEY=[[9, 872, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "constată"
+      ]
+    },
+    "MWE_KEY=[[1, 49408, [19, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "constitui",
+        "se"
+      ]
+    },
+    "MWE_KEY=[[1, 25896, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "constituie"
+      ]
+    },
+    "MWE_KEY=[[1, 40449, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "constituie"
+      ]
+    },
+    "MWE_KEY=[[8, 151, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "constituie"
+      ]
+    },
+    "MWE_KEY=[[9, 814, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "constituie"
+      ]
+    },
+    "MWE_KEY=[[1, 6632, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "constituie"
+      ]
+    },
+    "MWE_KEY=[[8, 397, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "a",
+        "avut",
+        "consultări"
+      ]
+    },
+    "MWE_KEY=[[1, 41663, [18, 19, 20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "trecându",
+        "-și",
+        "în",
+        "cont"
+      ]
+    },
+    "MWE_KEY=[[6, 13, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "ține",
+        "cont"
+      ]
+    },
+    "MWE_KEY=[[7, 694, [50, 51]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "ține",
+        "cont"
+      ]
+    },
+    "MWE_KEY=[[7, 893, [29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "ținem",
+        "cont"
+      ]
+    },
+    "MWE_KEY=[[3, 433, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "ținând",
+        "cont"
+      ]
+    },
+    "MWE_KEY=[[9, 305, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "ținând",
+        "cont"
+      ]
+    },
+    "MWE_KEY=[[1, 12726, [34, 35]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "ia",
+        "contact"
+      ]
+    },
+    "MWE_KEY=[[2, 188, [33, 34]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "ia",
+        "contact"
+      ]
+    },
+    "MWE_KEY=[[3, 188, [33, 34]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "ia",
+        "contact"
+      ]
+    },
+    "MWE_KEY=[[7, 815, [44, 45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "intra",
+        "în",
+        "contact"
+      ]
+    },
+    "MWE_KEY=[[5, 438, [26, 28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "își",
+        "aduce",
+        "contribuția"
+      ]
+    },
+    "MWE_KEY=[[1, 1290, [1, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "adus",
+        "contribuție"
+      ]
+    },
+    "MWE_KEY=[[1, 35421, [40, 42]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "adus",
+        "contribuție"
+      ]
+    },
+    "MWE_KEY=[[1, 3501, [13, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "contribuție"
+      ]
+    },
+    "MWE_KEY=[[1, 28960, [12, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "contribuție"
+      ]
+    },
+    "MWE_KEY=[[1, 44336, [14, 15, 16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "efectuat",
+        "un",
+        "control"
+      ]
+    },
+    "MWE_KEY=[[1, 48968, [25, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "făcut",
+        "control"
+      ]
+    },
+    "MWE_KEY=[[8, 846, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "cresc"
+      ]
+    },
+    "MWE_KEY=[[1, 11302, [0, 1, 3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "venit",
+        "să",
+        "creadă"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "Nu",
+        "i-",
+        "venit",
+        "să",
+        "creadă"
+      ]
+    },
+    "MWE_KEY=[[8, 796, [17, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "cunoască"
+      ]
+    },
+    "MWE_KEY=[[1, 41314, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscut"
+      ]
+    },
+    "MWE_KEY=[[1, 50517, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscut"
+      ]
+    },
+    "MWE_KEY=[[1, 10481, [51, 52]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscute"
+      ]
+    },
+    "MWE_KEY=[[1, 13893, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscute"
+      ]
+    },
+    "MWE_KEY=[[1, 30588, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscute"
+      ]
+    },
+    "MWE_KEY=[[1, 50429, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscute"
+      ]
+    },
+    "MWE_KEY=[[1, 3592, [24, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscută"
+      ]
+    },
+    "MWE_KEY=[[1, 13910, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscută"
+      ]
+    },
+    "MWE_KEY=[[1, 31368, [9, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "cunoscuți"
+      ]
+    },
+    "MWE_KEY=[[9, 351, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "aduse",
+        "la",
+        "cunoștința"
+      ]
+    },
+    "MWE_KEY=[[8, 624, [13, 14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "adus",
+        "la",
+        "cunoștință"
+      ]
+    },
+    "MWE_KEY=[[6, 209, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luat",
+        "cunoștință"
+      ]
+    },
+    "MWE_KEY=[[8, 7, [13, 14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "dezlegat",
+        "cununia"
+      ]
+    },
+    "MWE_KEY=[[9, 999, [14, 15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "dezlegat",
+        "cununia"
+      ]
+    },
+    "MWE_KEY=[[9, 813, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "cuprind"
+      ]
+    },
+    "MWE_KEY=[[8, 551, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "ținut",
+        "la",
+        "curent"
+      ]
+    },
+    "MWE_KEY=[[9, 149, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "cânta"
+      ]
+    },
+    "MWE_KEY=[[7, 937, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "venit",
+        "la",
+        "cârma"
+      ]
+    },
+    "MWE_KEY=[[8, 928, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "căsătorească"
+      ]
+    },
+    "MWE_KEY=[[8, 927, [38, 39]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "căsători"
+      ]
+    },
+    "MWE_KEY=[[3, 423, [24, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "startul",
+        "da"
+      ]
+    },
+    "MWE_KEY=[[1, 28027, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "și-",
+        "dat",
+        "acordul"
+      ],
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "dat",
+        "acordul"
+      ]
+    },
+    "MWE_KEY=[[1, 29264, [56, 64]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "acordul",
+        "dat"
+      ]
+    },
+    "MWE_KEY=[[7, 100, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "și-",
+        "dat",
+        "acordul"
+      ],
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "dat",
+        "acordul"
+      ]
+    },
+    "MWE_KEY=[[1, 18409, [2, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "lovitură",
+        "dată"
+      ]
+    },
+    "MWE_KEY=[[8, 95, [17, 18, 19, 39]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc",
+        "de"
+      ]
+    },
+    "MWE_KEY=[[1, 16229, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "mă",
+        "debranșez"
+      ]
+    },
+    "MWE_KEY=[[9, 59, [29, 30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "decala"
+      ]
+    },
+    "MWE_KEY=[[5, 318, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "decizia"
+      ]
+    },
+    "MWE_KEY=[[5, 380, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "decizia"
+      ]
+    },
+    "MWE_KEY=[[1, 13700, [8, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "decizia",
+        "luată"
+      ]
+    },
+    "MWE_KEY=[[8, 656, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "pot",
+        "deconta"
+      ]
+    },
+    "MWE_KEY=[[9, 836, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "defini"
+      ]
+    },
+    "MWE_KEY=[[9, 785, [27, 28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "poate",
+        "delimita"
+      ]
+    },
+    "MWE_KEY=[[1, 45479, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "delimitează"
+      ]
+    },
+    "MWE_KEY=[[8, 538, [3, 4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "face",
+        "demersuri"
+      ]
+    },
+    "MWE_KEY=[[1, 45197, [19, 21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "și-",
+        "depus",
+        "demisia"
+      ]
+    },
+    "MWE_KEY=[[1, 33698, [3, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "și-",
+        "prezentat",
+        "demisia"
+      ]
+    },
+    "MWE_KEY=[[1, 33701, [11, 13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "și-",
+        "prezentat",
+        "demisia"
+      ]
+    },
+    "MWE_KEY=[[1, 46226, [9, 10, 11, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "deplasa"
+      ],
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "a",
+        "nu",
+        "se",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[9, 743, [9, 10, 11, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "deplasa"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "a",
+        "nu",
+        "se",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[9, 278, [3, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[9, 278, [23, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[9, 527, [15, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[9, 743, [11, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[9, 278, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "deplasa"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[9, 278, [23, 24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "deplasa"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[9, 527, [15, 16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "deplasa"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "deplasa"
+      ]
+    },
+    "MWE_KEY=[[1, 34290, [15, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "efectuat",
+        "deplasare"
+      ]
+    },
+    "MWE_KEY=[[1, 38159, [21, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "efectuat",
+        "deplasare"
+      ]
+    },
+    "MWE_KEY=[[1, 41826, [23, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "efectuat",
+        "deplasare"
+      ]
+    },
+    "MWE_KEY=[[1, 13046, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "s-",
+        "deplasat"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "s-",
+        "au",
+        "deplasat"
+      ]
+    },
+    "MWE_KEY=[[5, 442, [19, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "deplasat"
+      ]
+    },
+    "MWE_KEY=[[8, 362, [3, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "deplasat"
+      ]
+    },
+    "MWE_KEY=[[9, 600, [3, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "deplasat"
+      ]
+    },
+    "MWE_KEY=[[9, 853, [34, 35]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "depozitează"
+      ]
+    },
+    "MWE_KEY=[[8, 654, [17, 18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "depune"
+      ]
+    },
+    "MWE_KEY=[[9, 120, [22, 23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "depune"
+      ]
+    },
+    "MWE_KEY=[[9, 528, [21, 22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "depune"
+      ]
+    },
+    "MWE_KEY=[[9, 726, [16, 17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "derula"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "a",
+        "se",
+        "derula"
+      ]
     }
   }
 }
