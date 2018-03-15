@@ -5139,7 +5139,7 @@
     "MWE_KEY=[[1, 16911, [34, 35, 39]]]": {
       "type": "RE-ANNOT",
       "target_categ": "LVC.cause",
-      "source_categ": "Skipped",
+      "source_categ": "VID",
       "source_mwe": [
         "la",
         "dispoziția",
@@ -5149,7 +5149,7 @@
     "MWE_KEY=[[1, 32434, [17, 18, 19]]]": {
       "type": "RE-ANNOT",
       "target_categ": "LVC.cause",
-      "source_categ": "VID",
+      "source_categ": "Skipped",
       "source_mwe": [
         "puse",
         "la",
@@ -5226,6 +5226,8668 @@
         "pune",
         "la",
         "dispoziția"
+      ]
+    },
+    "MWE_KEY=[[8, 515, [3, 4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "target_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ],
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "a",
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 34055, [23, 27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "aibă",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 49917, [22, 23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "aibă",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[9, 736, [2, 3, 4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "target_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "fost",
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 5254, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 5270, [14, 15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 8981, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 12596, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 15883, [15, 16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 19085, [7, 8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 19494, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 19746, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 19778, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 33102, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 33137, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 36618, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 38944, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 40787, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 48878, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 51241, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[6, 380, [15, 16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[8, 259, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 45107, [13, 14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "avut",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 31150, [44, 45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "avute",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 3393, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 12893, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 19087, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 19759, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 21278, [14, 15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 26232, [13, 14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 29846, [47, 48, 49]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 29868, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 34174, [34, 35, 36]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 34580, [15, 16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 37076, [20, 21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 40819, [27, 28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 42271, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 48689, [10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[4, 218, [15, 16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[7, 454, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[8, 490, [34, 35, 36]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pune",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 45595, [25, 26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "punând",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[5, 57, [22, 23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "punând",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 13709, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pună",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 47278, [12, 13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pună",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 1207, [23, 24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 2095, [49, 50, 51]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 2911, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 6467, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 7346, [19, 20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 13685, [19, 20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 14111, [13, 14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 24370, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 34230, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 34478, [14, 15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 41697, [37, 38, 39]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 50688, [36, 37, 38]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[8, 515, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pus",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 2828, [23, 24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 6753, [5, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 6760, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 9003, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 14337, [19, 20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 17378, [40, 41, 42]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 21205, [7, 8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 31599, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 38132, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 38537, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[1, 46198, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "VID",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[9, 736, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "puse",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[6, 378, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "stă",
+        "la",
+        "dispoziție"
+      ]
+    },
+    "MWE_KEY=[[3, 428, [24, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "disputa"
+      ]
+    },
+    "MWE_KEY=[[8, 466, [3, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "disputa"
+      ]
+    },
+    "MWE_KEY=[[9, 491, [19, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "disputa"
+      ]
+    },
+    "MWE_KEY=[[9, 491, [19, 20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "disputa"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "disputa"
+      ]
+    },
+    "MWE_KEY=[[8, 466, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "disputa"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "disputa"
+      ]
+    },
+    "MWE_KEY=[[7, 611, [1, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "disputat"
+      ]
+    },
+    "MWE_KEY=[[7, 928, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "distanță"
+      ]
+    },
+    "MWE_KEY=[[9, 268, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "distribuie"
+      ]
+    },
+    "MWE_KEY=[[9, 889, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "dizolva"
+      ]
+    },
+    "MWE_KEY=[[9, 890, [3, 4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "putea",
+        "dizolva"
+      ]
+    },
+    "MWE_KEY=[[7, 11, [11, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "și-",
+        "dobândit"
+      ]
+    },
+    "MWE_KEY=[[8, 148, [21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "dorește"
+      ]
+    },
+    "MWE_KEY=[[1, 50177, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "dovedesc"
+      ]
+    },
+    "MWE_KEY=[[1, 13087, [1, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "dovedit"
+      ]
+    },
+    "MWE_KEY=[[1, 14311, [16, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "dovedit"
+      ]
+    },
+    "MWE_KEY=[[1, 17715, [20, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "dovedit"
+      ]
+    },
+    "MWE_KEY=[[1, 20056, [5, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[1, 30235, [52, 54]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[1, 47091, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[7, 513, [51, 53]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[1, 3574, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[1, 35118, [22, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[1, 35145, [65, 66]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[1, 16823, [5, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[1, 33419, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "drept"
+      ]
+    },
+    "MWE_KEY=[[1, 18278, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptate"
+      ]
+    },
+    "MWE_KEY=[[1, 1990, [29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 3014, [155, 156]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 7043, [150, 151]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 16219, [40, 41]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 18236, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 19150, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 19170, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 23120, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 30213, [30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 33413, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 33413, [45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41117, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41121, [25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41122, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41123, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 46830, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 46839, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 47236, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 48496, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 48516, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[6, 437, [38, 39]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[7, 504, [30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[9, 837, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[9, 885, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "are",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 1930, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 1978, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 2047, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 2061, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 2065, [19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 7337, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 8214, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 9289, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 9298, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 9316, [19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 10465, [44, 45]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 12374, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 12393, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 13866, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 16181, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 16195, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 16195, [5, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "dreptul",
+        "au"
+      ]
+    },
+    "MWE_KEY=[[1, 16199, [28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 16958, [89, 90]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 17238, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 18279, [25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 20017, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 20042, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 23072, [45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 24466, [52, 53]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 26511, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 26511, [5, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "dreptul",
+        "au"
+      ]
+    },
+    "MWE_KEY=[[1, 26525, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 26532, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 27423, [29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 27425, [29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 29386, [113, 114]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 30133, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 33399, [40, 41]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 33489, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 34350, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 37430, [32, 34]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "dreptul"
+      ],
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41081, [43, 44]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41090, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 44569, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 44627, [28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 46410, [34, 35]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 46846, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 48107, [32, 33]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[5, 224, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[5, 231, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[6, 421, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[6, 428, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[6, 431, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[7, 476, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[8, 325, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[8, 580, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[9, 357, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[9, 381, [28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 2040, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 5544, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 23093, [30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 29006, [130, 131]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 30155, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 33412, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 37351, [32, 33]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 37354, [71, 72]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 37363, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 37364, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41065, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41124, [35, 36]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 41322, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 49281, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[5, 221, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[7, 488, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[8, 294, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 2048, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 9317, [42, 43]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 18287, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 30140, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 37351, [44, 45]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[3, 320, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "aveți",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[5, 225, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[7, 479, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 37430, [33, 34]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 14032, [16, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "având",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 17650, [2, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "dădea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[8, 294, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "dreptul"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "veți",
+        "avea",
+        "dreptul"
+      ]
+    },
+    "MWE_KEY=[[1, 21601, [14, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "drepturi"
+      ]
+    },
+    "MWE_KEY=[[1, 47240, [4, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "drepturi"
+      ]
+    },
+    "MWE_KEY=[[1, 17736, [12, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "m-",
+        "dus"
+      ]
+    },
+    "MWE_KEY=[[8, 341, [22, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "dus"
+      ]
+    },
+    "MWE_KEY=[[8, 365, [17, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "dus"
+      ]
+    },
+    "MWE_KEY=[[6, 10, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "echilibrează"
+      ]
+    },
+    "MWE_KEY=[[8, 666, [32, 33, 34]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "efectua"
+      ]
+    },
+    "MWE_KEY=[[8, 722, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "efectua"
+      ]
+    },
+    "MWE_KEY=[[9, 621, [42, 43, 44]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "efectua"
+      ]
+    },
+    "MWE_KEY=[[9, 771, [24, 25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "efectua"
+      ]
+    },
+    "MWE_KEY=[[8, 674, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "efectuează"
+      ]
+    },
+    "MWE_KEY=[[9, 331, [32, 33]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "efectuează"
+      ]
+    },
+    "MWE_KEY=[[8, 858, [12, 13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "efectueze"
+      ]
+    },
+    "MWE_KEY=[[8, 923, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "au",
+        "făcut",
+        "eforturi"
+      ]
+    },
+    "MWE_KEY=[[8, 500, [0, 1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "Se",
+        "vor",
+        "face",
+        "eforturi"
+      ]
+    },
+    "MWE_KEY=[[8, 322, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "eliberează"
+      ]
+    },
+    "MWE_KEY=[[8, 774, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "eliberează"
+      ]
+    },
+    "MWE_KEY=[[9, 72, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "eliberează"
+      ]
+    },
+    "MWE_KEY=[[9, 716, [25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "eliberează"
+      ]
+    },
+    "MWE_KEY=[[1, 29331, [0, 1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luarea",
+        "în",
+        "evidență"
+      ]
+    },
+    "MWE_KEY=[[3, 416, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pune",
+        "în",
+        "evidență"
+      ]
+    },
+    "MWE_KEY=[[9, 126, [2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "fac"
+      ]
+    },
+    "MWE_KEY=[[1, 46975, [47, 48]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "fac"
+      ]
+    },
+    "MWE_KEY=[[1, 50732, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "fac"
+      ]
+    },
+    "MWE_KEY=[[8, 118, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "fac"
+      ]
+    },
+    "MWE_KEY=[[8, 226, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "fac"
+      ]
+    },
+    "MWE_KEY=[[8, 475, [0, 1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "Înscrierile",
+        "se",
+        "fac"
+      ]
+    },
+    "MWE_KEY=[[1, 29344, [0, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "Alegerea",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[1, 16717, [0, 1]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "Se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[1, 22110, [22, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[1, 47279, [48, 49]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 196, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 322, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 695, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 708, [51, 52]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 391, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 790, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 796, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 807, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 823, [50, 51]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 860, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 874, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 894, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 209, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "pot",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 54, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 620, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 621, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 680, [17, 18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[8, 695, [34, 35, 36]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "face"
+      ]
+    },
+    "MWE_KEY=[[9, 120, [32, 33, 34]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "facă"
+      ]
+    },
+    "MWE_KEY=[[8, 960, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "ferească"
+      ]
+    },
+    "MWE_KEY=[[8, 960, [16, 17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "ferească"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "ferească"
+      ]
+    },
+    "MWE_KEY=[[1, 27840, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luat",
+        "ființă"
+      ]
+    },
+    "MWE_KEY=[[9, 60, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "ființă"
+      ]
+    },
+    "MWE_KEY=[[1, 14429, [6, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "bate",
+        "filmele"
+      ]
+    },
+    "MWE_KEY=[[6, 25, [5, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "bate",
+        "filmele"
+      ]
+    },
+    "MWE_KEY=[[8, 861, [11, 13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "punându",
+        "punct",
+        "final"
+      ]
+    },
+    "MWE_KEY=[[9, 629, [30, 31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "finaliza"
+      ]
+    },
+    "MWE_KEY=[[8, 417, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "foc"
+      ]
+    },
+    "MWE_KEY=[[8, 796, [6, 7, 8, 9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "nu",
+        "se",
+        "vor",
+        "arunca",
+        "pe",
+        "foc"
+      ]
+    },
+    "MWE_KEY=[[9, 657, [7, 8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "folosi"
+      ]
+    },
+    "MWE_KEY=[[7, 455, [15, 16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "da",
+        "în",
+        "folosință"
+      ]
+    },
+    "MWE_KEY=[[1, 6826, [39, 40, 41]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "dat",
+        "în",
+        "folosință"
+      ]
+    },
+    "MWE_KEY=[[8, 583, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "dat",
+        "în",
+        "folosință"
+      ]
+    },
+    "MWE_KEY=[[1, 38032, [14, 16, 17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "se",
+        "afla",
+        "în",
+        "fruntea"
+      ]
+    },
+    "MWE_KEY=[[1, 29858, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "dat",
+        "în",
+        "funcțiune"
+      ]
+    },
+    "MWE_KEY=[[7, 450, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "dat",
+        "în",
+        "funcțiune"
+      ]
+    },
+    "MWE_KEY=[[3, 390, [18, 19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "intra",
+        "în",
+        "funcțiune"
+      ]
+    },
+    "MWE_KEY=[[1, 42539, [3, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "parte",
+        "făcut"
+      ]
+    },
+    "MWE_KEY=[[1, 31368, [7, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "făcut"
+      ]
+    },
+    "MWE_KEY=[[1, 34765, [9, 10, 11, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "o",
+        "ia",
+        "la",
+        "goană"
+      ]
+    },
+    "MWE_KEY=[[1, 27915, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "ne",
+        "grăbim"
+      ]
+    },
+    "MWE_KEY=[[1, 43544, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luat",
+        "o",
+        "gustare"
+      ]
+    },
+    "MWE_KEY=[[8, 56, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "gândească"
+      ]
+    },
+    "MWE_KEY=[[8, 56, [21, 22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "gândească"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "gândească"
+      ]
+    },
+    "MWE_KEY=[[1, 25511, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsesc"
+      ]
+    },
+    "MWE_KEY=[[1, 50315, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsesc"
+      ]
+    },
+    "MWE_KEY=[[9, 299, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsesc"
+      ]
+    },
+    "MWE_KEY=[[9, 322, [37, 38]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsesc"
+      ]
+    },
+    "MWE_KEY=[[1, 8904, [25, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsește"
+      ]
+    },
+    "MWE_KEY=[[1, 17799, [0, 1]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "Se",
+        "găsește"
+      ]
+    },
+    "MWE_KEY=[[1, 31196, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsește"
+      ]
+    },
+    "MWE_KEY=[[1, 38434, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsește"
+      ]
+    },
+    "MWE_KEY=[[7, 772, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsește"
+      ]
+    },
+    "MWE_KEY=[[1, 25588, [14, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "găsi"
+      ]
+    },
+    "MWE_KEY=[[7, 938, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "treacă",
+        "hopul"
+      ]
+    },
+    "MWE_KEY=[[9, 790, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "lua",
+        "hotărârea"
+      ]
+    },
+    "MWE_KEY=[[5, 352, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "hotărârea"
+      ]
+    },
+    "MWE_KEY=[[9, 790, [9, 10, 11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "target_mwe": [
+        "lua",
+        "hotărârea"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "nu",
+        "se",
+        "poate",
+        "lua",
+        "hotărârea"
+      ]
+    },
+    "MWE_KEY=[[8, 129, [10, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "hotărât"
+      ]
+    },
+    "MWE_KEY=[[1, 6947, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "idee"
+      ]
+    },
+    "MWE_KEY=[[1, 39902, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "schimba",
+        "idei"
+      ]
+    },
+    "MWE_KEY=[[1, 17170, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "oferă",
+        "o",
+        "imagine"
+      ]
+    },
+    "MWE_KEY=[[1, 40380, [2, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "impact"
+      ]
+    },
+    "MWE_KEY=[[8, 409, [18, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "implicat"
+      ]
+    },
+    "MWE_KEY=[[8, 800, [24, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "implicat"
+      ]
+    },
+    "MWE_KEY=[[8, 68, [35, 36]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "implice"
+      ]
+    },
+    "MWE_KEY=[[8, 68, [34, 35, 36]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "implice"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "implice"
+      ]
+    },
+    "MWE_KEY=[[9, 277, [21, 22, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "nu",
+        "se",
+        "impune"
+      ]
+    },
+    "MWE_KEY=[[9, 277, [22, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "impune"
+      ]
+    },
+    "MWE_KEY=[[8, 172, [0, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "S-",
+        "impus"
+      ]
+    },
+    "MWE_KEY=[[8, 135, [13, 14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "inaugura"
+      ]
+    },
+    "MWE_KEY=[[8, 608, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "indexează"
+      ]
+    },
+    "MWE_KEY=[[1, 2174, [23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "intenția"
+      ]
+    },
+    "MWE_KEY=[[8, 22, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "intenționează"
+      ]
+    },
+    "MWE_KEY=[[8, 148, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "intenționează"
+      ]
+    },
+    "MWE_KEY=[[8, 770, [0, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "Se",
+        "intenționează"
+      ]
+    },
+    "MWE_KEY=[[9, 425, [0, 1]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "Se",
+        "intenționează"
+      ]
+    },
+    "MWE_KEY=[[1, 16830, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "făcut",
+        "invitații"
+      ]
+    },
+    "MWE_KEY=[[1, 45516, [54, 55, 56]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "intrat",
+        "în",
+        "istorie"
+      ]
+    },
+    "MWE_KEY=[[1, 27249, [47, 48, 49]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "destine",
+        "se",
+        "joacă"
+      ]
+    },
+    "MWE_KEY=[[1, 24182, [20, 21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "da",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 45215, [10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "da",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 2200, [8, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 5706, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 9420, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 9442, [10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 13044, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 13080, [14, 15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 16344, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 16372, [27, 28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 20215, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 23251, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 26718, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 30293, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 33573, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 33579, [19, 20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 33585, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 37527, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 37561, [34, 35, 36]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 41222, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 41233, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 44711, [10, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 44721, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimis",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 4969, [31, 32, 33]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimise",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 49473, [24, 25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimisă",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 30330, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimiși",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 41254, [44, 45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimiși",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[1, 44720, [19, 20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "trimiși",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[7, 556, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "trimiși",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[9, 433, [10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "trimiși",
+        "în",
+        "judecată"
+      ]
+    },
+    "MWE_KEY=[[9, 823, [43, 44, 45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "a",
+        "acționa",
+        "în",
+        "justiție"
+      ]
+    },
+    "MWE_KEY=[[1, 33510, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[1, 9412, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[1, 11248, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[1, 30333, [13, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[1, 33510, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[1, 34285, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[7, 559, [10, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[8, 330, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[8, 545, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[1, 14995, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luați",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[1, 37406, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luați",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[6, 161, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "luați",
+        "legătura"
+      ]
+    },
+    "MWE_KEY=[[1, 21604, [22, 24, 25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "să",
+        "depășească",
+        "propriile",
+        "limite"
+      ]
+    },
+    "MWE_KEY=[[8, 853, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "ne",
+        "limităm"
+      ]
+    },
+    "MWE_KEY=[[9, 1, [17, 18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "a",
+        "adus",
+        "liniștea"
+      ]
+    },
+    "MWE_KEY=[[8, 92, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 136, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 513, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 522, [29, 30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 929, [30, 31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 41, [7, 8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 54, [12, 13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 54, [13, 14, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc",
+        "a"
+      ]
+    },
+    "MWE_KEY=[[9, 181, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 183, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 207, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 223, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 249, [33, 34, 35]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 314, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 566, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 584, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 593, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 601, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 15096, [36, 37]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aibă",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[5, 330, [33, 34]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "aibă",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[7, 560, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "aibă",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 4278, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 15480, [50, 51]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 413, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avut",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 29424, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[4, 156, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "au",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 4286, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 6528, [36, 37]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 10315, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 11986, [38, 39]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 14113, [53, 54]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 16953, [39, 40]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 20628, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 24351, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 26064, [50, 51]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 27633, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 29452, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[5, 387, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[5, 394, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 95, [18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 99, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 110, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 248, [23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 252, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 485, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 697, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 726, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 741, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 763, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 767, [30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 25, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 66, [40, 41]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 75, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 77, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 88, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 102, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 122, [62, 63]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 126, [19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 159, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 173, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 188, [30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 268, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 270, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 288, [18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 294, [23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 308, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 481, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 483, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 495, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 527, [29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 527, [47, 48]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 549, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 572, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 770, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 774, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 6412, [145, 146]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 7227, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 13685, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 15096, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 16389, [32, 33]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 16964, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 17079, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 20651, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 22347, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 24781, [44, 45]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 37015, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[5, 305, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 92, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 136, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 413, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 513, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 522, [30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 642, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 41, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 54, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 181, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 183, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 207, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 223, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 249, [34, 35]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 314, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 566, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 584, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 593, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 601, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "avut",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 819, [33, 34, 35]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "să",
+        "facă",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 99, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 110, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 248, [22, 23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 252, [25, 26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 726, [25, 26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 763, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 767, [29, 30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 25, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 75, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 122, [61, 62, 63]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 126, [18, 19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 159, [25, 26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 173, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 188, [29, 30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 268, [23, 24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 288, [17, 18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 308, [7, 8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 481, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 483, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 495, [7, 8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 549, [10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 572, [23, 24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 770, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "va",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 485, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 697, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[8, 741, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 102, [10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 270, [5, 6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 294, [22, 23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 527, [28, 29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 527, [46, 47, 48]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[9, 774, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "avea",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "vor",
+        "avea",
+        "loc"
+      ]
+    },
+    "MWE_KEY=[[1, 46413, [25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "aibă",
+        "loc"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "aibă",
+        "loc."
+      ]
+    },
+    "MWE_KEY=[[8, 895, [25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "da",
+        "locul"
+      ]
+    },
+    "MWE_KEY=[[8, 429, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "dea",
+        "lovitura"
+      ]
+    },
+    "MWE_KEY=[[9, 510, [11, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "decizia",
+        "lua"
+      ]
+    },
+    "MWE_KEY=[[9, 510, [11, 13, 14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "target_mwe": [
+        "decizia",
+        "lua"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "decizia",
+        "se",
+        "va",
+        "lua"
+      ]
+    },
+    "MWE_KEY=[[8, 368, [0, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "S-",
+        "luat"
+      ]
+    },
+    "MWE_KEY=[[1, 8185, [49, 50]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "deciziile",
+        "luate"
+      ]
+    },
+    "MWE_KEY=[[1, 37387, [11, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "hotărâri",
+        "luate"
+      ]
+    },
+    "MWE_KEY=[[1, 47165, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "hotărârii",
+        "luate"
+      ]
+    },
+    "MWE_KEY=[[1, 6721, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "Măsuri",
+        "luate"
+      ]
+    },
+    "MWE_KEY=[[1, 6448, [0, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "Măsurile",
+        "luate"
+      ]
+    },
+    "MWE_KEY=[[1, 24573, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "măsurile",
+        "luate"
+      ]
+    },
+    "MWE_KEY=[[3, 72, [7, 8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luate",
+        "în",
+        "calcul"
+      ]
+    },
+    "MWE_KEY=[[1, 31445, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luată",
+        "decizia"
+      ]
+    },
+    "MWE_KEY=[[7, 880, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luată",
+        "decizia"
+      ]
+    },
+    "MWE_KEY=[[1, 18240, [47, 48]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "decizie",
+        "luată"
+      ]
+    },
+    "MWE_KEY=[[3, 300, [46, 47]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "decizie",
+        "luată"
+      ]
+    },
+    "MWE_KEY=[[1, 26572, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "hotărârea",
+        "luată"
+      ]
+    },
+    "MWE_KEY=[[9, 714, [15, 16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "adus",
+        "pe",
+        "lume"
+      ]
+    },
+    "MWE_KEY=[[1, 36768, [66, 68]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "s-",
+        "majorat"
+      ]
+    },
+    "MWE_KEY=[[1, 8924, [3, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "s-",
+        "majorat"
+      ]
+    },
+    "MWE_KEY=[[8, 627, [21, 22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "majoreze"
+      ]
+    },
+    "MWE_KEY=[[8, 30, [5, 6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "aplica",
+        "majorări"
+      ]
+    },
+    "MWE_KEY=[[9, 712, [50, 51, 52]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "s-",
+        "materializat"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "s-",
+        "a",
+        "materializat"
+      ]
+    },
+    "MWE_KEY=[[1, 11146, [8, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "materializat"
+      ]
+    },
+    "MWE_KEY=[[9, 712, [50, 52]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "materializat"
+      ]
+    },
+    "MWE_KEY=[[7, 331, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "menține"
+      ]
+    },
+    "MWE_KEY=[[9, 367, [21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "menționează"
+      ]
+    },
+    "MWE_KEY=[[1, 13774, [2, 4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "s-",
+        "soldat",
+        "cu",
+        "moartea"
+      ]
+    },
+    "MWE_KEY=[[1, 30347, [16, 18, 19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "s-",
+        "soldat",
+        "cu",
+        "moartea"
+      ]
+    },
+    "MWE_KEY=[[8, 923, [24, 25, 26, 27, 28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "a-",
+        "și",
+        "arăta",
+        "bucuria",
+        "și",
+        "mulțumirea"
+      ]
+    },
+    "MWE_KEY=[[8, 357, [13, 14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "pus",
+        "mâna"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "pus",
+        "mâna"
+      ]
+    },
+    "MWE_KEY=[[1, 5755, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pus",
+        "mâna"
+      ]
+    },
+    "MWE_KEY=[[1, 9450, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pus",
+        "mâna"
+      ]
+    },
+    "MWE_KEY=[[1, 16383, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pus",
+        "mâna"
+      ]
+    },
+    "MWE_KEY=[[8, 344, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pus",
+        "mâna"
+      ]
+    },
+    "MWE_KEY=[[8, 357, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "pus",
+        "mâna"
+      ]
+    },
+    "MWE_KEY=[[8, 969, [26, 27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.cause",
+      "source_mwe": [
+        "își",
+        "face",
+        "mâncare"
+      ]
+    },
+    "MWE_KEY=[[1, 34476, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "mărească"
+      ]
+    },
+    "MWE_KEY=[[1, 8924, [17, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "s-",
+        "mărit"
+      ]
+    },
+    "MWE_KEY=[[1, 25835, [3, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "s-",
+        "mărit"
+      ]
+    },
+    "MWE_KEY=[[1, 6420, [25, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "măsurile",
+        "luate"
+      ]
+    },
+    "MWE_KEY=[[8, 611, [23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luate",
+        "măsurile"
+      ]
+    },
+    "MWE_KEY=[[3, 281, [24, 25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "este",
+        "în",
+        "măsură"
+      ]
+    },
+    "MWE_KEY=[[5, 226, [1, 2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "suntem",
+        "în",
+        "măsură"
+      ]
+    },
+    "MWE_KEY=[[6, 459, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "dă",
+        "naștere"
+      ]
+    },
+    "MWE_KEY=[[1, 38030, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "purtăm",
+        "negocieri"
+      ]
+    },
+    "MWE_KEY=[[1, 17700, [1, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "Mi",
+        "luat",
+        "nevastă"
+      ]
+    },
+    "MWE_KEY=[[1, 17671, [36, 38, 39]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "și-",
+        "luat",
+        "nevastă"
+      ]
+    },
+    "MWE_KEY=[[1, 9614, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 18456, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 34829, [17, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 49228, [45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[4, 334, [17, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "are",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 21369, [42, 43]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 21602, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 21629, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 29096, [158, 159]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 37066, [37, 38]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 39695, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "au",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 50697, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 50805, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avem",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 50924, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avem",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 5527, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 16202, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 18292, [0, 1]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "Aveți",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 28569, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 33405, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "aveți",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 23851, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 25950, [13, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 26717, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 23289, [46, 47]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "e",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 48941, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "e",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 26733, [21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 27280, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 27792, [37, 38]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 28008, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 28012, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 37419, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 38432, [41, 42]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 46848, [19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 47021, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 47093, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "este",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 9457, [676, 677]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "fi",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 50831, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "fie",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 50950, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "fie",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 22136, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "fost",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[1, 50605, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "fost",
+        "nevoie"
+      ]
+    },
+    "MWE_KEY=[[8, 432, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vede",
+        "nevoită"
+      ]
+    },
+    "MWE_KEY=[[7, 41, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "luat",
+        "numele"
+      ]
+    },
+    "MWE_KEY=[[3, 156, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "poartă",
+        "numele"
+      ]
+    },
+    "MWE_KEY=[[1, 3644, [0, 1]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "Se",
+        "numește"
+      ]
+    },
+    "MWE_KEY=[[1, 12370, [2, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "vă",
+        "număra"
+      ]
+    },
+    "MWE_KEY=[[8, 368, [13, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "năpustit"
+      ]
+    },
+    "MWE_KEY=[[8, 170, [5, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "născut"
+      ]
+    },
+    "MWE_KEY=[[8, 177, [5, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "născut"
+      ]
+    },
+    "MWE_KEY=[[8, 956, [8, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "născut"
+      ]
+    },
+    "MWE_KEY=[[9, 235, [6, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "născut"
+      ]
+    },
+    "MWE_KEY=[[1, 31705, [25, 26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "le",
+        "rămână",
+        "oasele"
+      ]
+    },
+    "MWE_KEY=[[3, 38, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "nefăcând",
+        "obiectul"
+      ]
+    },
+    "MWE_KEY=[[3, 322, [31, 33]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "obligat"
+      ]
+    },
+    "MWE_KEY=[[8, 715, [12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "obțin"
+      ]
+    },
+    "MWE_KEY=[[9, 324, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "obțin"
+      ]
+    },
+    "MWE_KEY=[[9, 853, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "obțin"
+      ]
+    },
+    "MWE_KEY=[[1, 20784, [21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "ocazia"
+      ]
+    },
+    "MWE_KEY=[[1, 38537, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "avut",
+        "ocazia"
+      ]
+    },
+    "MWE_KEY=[[8, 341, [2, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "ochit"
+      ]
+    },
+    "MWE_KEY=[[1, 14518, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "mă",
+        "ocup"
+      ]
+    },
+    "MWE_KEY=[[8, 777, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "oferă"
+      ]
+    },
+    "MWE_KEY=[[9, 48, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "oferă"
+      ]
+    },
+    "MWE_KEY=[[9, 217, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "oferă"
+      ]
+    },
+    "MWE_KEY=[[9, 526, [21, 22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "oficia"
+      ]
+    },
+    "MWE_KEY=[[9, 528, [28, 29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "oficia"
+      ]
+    },
+    "MWE_KEY=[[1, 45955, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "oglindește"
+      ]
+    },
+    "MWE_KEY=[[8, 382, [7, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "oprit"
+      ]
+    },
+    "MWE_KEY=[[1, 9354, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "dat",
+        "ordin"
+      ]
+    },
+    "MWE_KEY=[[1, 31639, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "dat",
+        "ordin"
+      ]
+    },
+    "MWE_KEY=[[1, 10085, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "dat",
+        "ordinul"
+      ]
+    },
+    "MWE_KEY=[[8, 652, [6, 7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "organiza"
+      ]
+    },
+    "MWE_KEY=[[8, 711, [12, 13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "organiza"
+      ]
+    },
+    "MWE_KEY=[[8, 745, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "organiza"
+      ]
+    },
+    "MWE_KEY=[[8, 652, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "vor",
+        "organiza"
+      ]
+    },
+    "MWE_KEY=[[8, 739, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "organizează"
+      ]
+    },
+    "MWE_KEY=[[8, 752, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "organizează"
+      ]
+    },
+    "MWE_KEY=[[1, 3557, [25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "au",
+        "originea"
+      ]
+    },
+    "MWE_KEY=[[9, 42, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "target_mwe": [
+        "făcut",
+        "parte"
+      ],
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "a",
+        "făcut",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[3, 88, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[4, 179, [38, 39]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[4, 242, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[5, 141, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 282, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 613, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[8, 534, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 829, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 830, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 878, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "fac",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[3, 454, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[4, 339, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[5, 151, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[5, 260, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[5, 375, [28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 218, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 717, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 855, [23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 913, [1, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[8, 458, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 885, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "face",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[6, 426, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "faceți",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[3, 53, [19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "facă",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[1, 23192, [46, 47]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcea",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 946, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcea",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 929, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făceau",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 26, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 684, [25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "făcut",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 42, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "făcut",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 828, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "făcând",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 830, [29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "făcând",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[8, 732, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "iau",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[8, 756, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "lua",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 87, [43, 44]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "lua",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[4, 365, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "luat",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 217, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "luat",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[7, 516, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "VID",
+      "source_mwe": [
+        "luat",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[9, 54, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.full",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "luat",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[1, 45017, [9, 10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "lăsând",
+        "la",
+        "o",
+        "parte"
+      ]
+    },
+    "MWE_KEY=[[1, 35595, [9, 10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "ieși",
+        "la",
+        "pensie"
+      ]
+    },
+    "MWE_KEY=[[8, 913, [7, 8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "va",
+        "ieși",
+        "la",
+        "pensie"
+      ]
+    },
+    "MWE_KEY=[[8, 324, [15, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "pensiona"
+      ]
+    },
+    "MWE_KEY=[[9, 205, [8, 9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "nu",
+        "se",
+        "percep"
+      ]
+    },
+    "MWE_KEY=[[9, 212, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "percepe"
+      ]
+    },
+    "MWE_KEY=[[9, 71, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "perfecționeze"
+      ]
+    },
+    "MWE_KEY=[[9, 71, [3, 4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "perfecționeze"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "perfecționeze"
+      ]
+    },
+    "MWE_KEY=[[1, 23599, [4, 8, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "pun",
+        "în",
+        "pericol"
+      ]
+    },
+    "MWE_KEY=[[1, 30227, [22, 23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "LVC.cause",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "pun",
+        "în",
+        "pericol"
+      ]
+    },
+    "MWE_KEY=[[1, 3617, [2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "trecut",
+        "peste"
+      ]
+    },
+    "MWE_KEY=[[1, 7596, [17, 18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "cerul",
+        "cade"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "cerul",
+        "cade",
+        "peste"
+      ]
+    },
+    "MWE_KEY=[[1, 14450, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "trece",
+        "peste"
+      ]
+    },
+    "MWE_KEY=[[1, 17708, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "trecem",
+        "peste"
+      ]
+    },
+    "MWE_KEY=[[1, 3617, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "trecut",
+        "peste"
+      ]
+    },
+    "MWE_KEY=[[8, 842, [9, 10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "nu",
+        "se",
+        "piardă"
+      ]
+    },
+    "MWE_KEY=[[8, 966, [1, 2, 3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "stingea",
+        "pe",
+        "picioare"
+      ]
+    },
+    "MWE_KEY=[[1, 23600, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "aduce",
+        "la",
+        "picioarele"
+      ]
+    },
+    "MWE_KEY=[[1, 49203, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "VID",
+      "source_mwe": [
+        "pună",
+        "piedici"
+      ]
+    },
+    "MWE_KEY=[[1, 34771, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "plângă"
+      ]
+    },
+    "MWE_KEY=[[8, 497, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "plătește"
+      ]
+    },
+    "MWE_KEY=[[1, 18268, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 23274, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 41219, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 42546, [45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 1593, [49, 50]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 1702, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 1939, [18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 2060, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 2062, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 2066, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 2909, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 3033, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 3034, [39, 40]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 3410, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 3575, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 3655, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 4451, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 5344, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 5544, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 5554, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 5616, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 6447, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 7348, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 8442, [32, 33]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 8994, [3, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 9075, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 9298, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 10120, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 10123, [18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 10207, [26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 10475, [0, 1]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "Se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 11249, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 11412, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 12182, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 12397, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 12428, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 12447, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 12891, [23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 12924, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 12985, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 13116, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 15981, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 16271, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 17248, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 18403, [25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 19741, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 19787, [23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 19833, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 20691, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 20887, [28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 21272, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 21317, [30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 22917, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 23083, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 24686, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 24699, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 24756, [21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 26300, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 27561, [46, 47]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 27961, [34, 35]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 27999, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 28491, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 29150, [23, 24]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 29155, [41, 42]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 29229, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 29398, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 29912, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 30156, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 31177, [21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 31178, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 31179, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 31180, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 31186, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 31635, [18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 31693, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 32219, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 32957, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 33215, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 35268, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 35337, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 35338, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 35478, [32, 33]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 36652, [14, 15]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 37051, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 37099, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 37148, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 37341, [45, 46]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 37354, [38, 39]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38252, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38362, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38932, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38932, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38943, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38944, [19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38954, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38957, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38959, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 38968, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 40882, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 41082, [4, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 41151, [21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 41907, [53, 54]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 42035, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 43375, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 44291, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 44354, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 44597, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 44612, [18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 45454, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46019, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46285, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46331, [28, 29]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46358, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46374, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46844, [71, 72]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46846, [78, 79]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46851, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 46925, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 47208, [42, 43]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 47864, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 47874, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 48477, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 48479, [29, 30]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 48986, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 49265, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 49838, [39, 40]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 49349, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 50699, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[1, 51339, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[3, 254, [9, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[3, 371, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[4, 43, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[4, 48, [41, 42]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[4, 80, [21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[4, 146, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[5, 209, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[5, 230, [24, 25]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[5, 232, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[5, 449, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[6, 412, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[6, 466, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 231, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 467, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 489, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 762, [17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 763, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 764, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 767, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 940, [18, 19]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[7, 971, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[8, 31, [30, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[8, 213, [15, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[8, 288, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[8, 751, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[8, 781, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[8, 782, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 114, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 346, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 370, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 374, [16, 17]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 623, [6, 7]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 655, [13, 14]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 773, [7, 8]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 785, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 790, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 849, [3, 4]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "poate"
+      ]
+    },
+    "MWE_KEY=[[9, 499, [19, 20, 21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "target_mwe": [
+        "intrat",
+        "în",
+        "posesia"
+      ],
+      "source_categ": "VID",
+      "source_mwe": [
+        "a",
+        "intrat",
+        "în",
+        "posesia"
+      ]
+    },
+    "MWE_KEY=[[2, 200, [30, 31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "intrat",
+        "în",
+        "posesia"
+      ]
+    },
+    "MWE_KEY=[[3, 200, [30, 31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "intrat",
+        "în",
+        "posesia"
+      ]
+    },
+    "MWE_KEY=[[8, 358, [7, 8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "intrat",
+        "în",
+        "posesia"
+      ]
+    },
+    "MWE_KEY=[[9, 499, [20, 21, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "intrat",
+        "în",
+        "posesia"
+      ]
+    },
+    "MWE_KEY=[[1, 20947, [52, 53, 54]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "punerea",
+        "în",
+        "posesie"
+      ]
+    },
+    "MWE_KEY=[[1, 31092, [42, 43, 44]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "punerea",
+        "în",
+        "posesie"
+      ]
+    },
+    "MWE_KEY=[[1, 41969, [16, 17, 18]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "punerea",
+        "în",
+        "posesie"
+      ]
+    },
+    "MWE_KEY=[[1, 51279, [2, 3]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "țin",
+        "post"
+      ]
+    },
+    "MWE_KEY=[[1, 10374, [26, 27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "pune",
+        "în",
+        "practică"
+      ]
+    },
+    "MWE_KEY=[[1, 11417, [24, 25, 26]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "pune",
+        "în",
+        "practică"
+      ]
+    },
+    "MWE_KEY=[[1, 41284, [18, 19, 20]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "pune",
+        "în",
+        "practică"
+      ]
+    },
+    "MWE_KEY=[[1, 8220, [26, 27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "VID",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "puse",
+        "în",
+        "practică"
+      ]
+    },
+    "MWE_KEY=[[9, 595, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "precizează"
+      ]
+    },
+    "MWE_KEY=[[8, 630, [13, 14, 16]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "LVC.full",
+      "source_mwe": [
+        "să",
+        "facă",
+        "precizări"
+      ]
+    },
+    "MWE_KEY=[[9, 611, [5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "preconizează"
+      ]
+    },
+    "MWE_KEY=[[8, 56, [25, 26, 27]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "pregătească"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "pregătească"
+      ]
+    },
+    "MWE_KEY=[[5, 307, [40, 41]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "pregăteau"
+      ]
+    },
+    "MWE_KEY=[[8, 574, [22, 23]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "prestează"
+      ]
+    },
+    "MWE_KEY=[[9, 798, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "vor",
+        "prevedea"
+      ]
+    },
+    "MWE_KEY=[[8, 640, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "prezenta"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "de_a",
+        "se",
+        "prezenta"
+      ]
+    },
+    "MWE_KEY=[[9, 686, [30, 31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "prezenta"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "de_a",
+        "se",
+        "prezenta"
+      ]
+    },
+    "MWE_KEY=[[1, 883, [0, 2]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "Se",
+        "prezenta"
+      ]
+    },
+    "MWE_KEY=[[8, 504, [11, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezenta"
+      ]
+    },
+    "MWE_KEY=[[8, 640, [12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezenta"
+      ]
+    },
+    "MWE_KEY=[[8, 645, [2, 5]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezenta"
+      ]
+    },
+    "MWE_KEY=[[9, 686, [31, 32]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezenta"
+      ]
+    },
+    "MWE_KEY=[[1, 38511, [20, 22]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "prezentat"
+      ]
+    },
+    "MWE_KEY=[[8, 639, [29, 31]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "prezentat"
+      ]
+    },
+    "MWE_KEY=[[8, 893, [9, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "prezentat"
+      ]
+    },
+    "MWE_KEY=[[9, 435, [8, 10]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "s-",
+        "prezentat"
+      ]
+    },
+    "MWE_KEY=[[1, 34851, [10, 11]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "mă",
+        "prezint"
+      ]
+    },
+    "MWE_KEY=[[1, 38537, [65, 66]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[8, 194, [11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[8, 659, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[8, 688, [27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[8, 689, [20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[8, 194, [10, 11, 12]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "prezinte"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[8, 659, [26, 27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "prezinte"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[8, 688, [26, 27, 28]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "prezinte"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[8, 689, [19, 20, 21]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "prezinte"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "să",
+        "se",
+        "prezinte"
+      ]
+    },
+    "MWE_KEY=[[9, 117, [8, 9]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "primesc"
+      ]
+    },
+    "MWE_KEY=[[8, 23, [11, 12, 13]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "proceda"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "proceda"
+      ]
+    },
+    "MWE_KEY=[[5, 287, [71, 73]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "NotMWE",
+      "source_categ": "IRV",
+      "source_mwe": [
+        "s-",
+        "procedat"
+      ]
+    },
+    "MWE_KEY=[[9, 94, [4, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "source_categ": "Skipped",
+      "source_mwe": [
+        "se",
+        "produce"
+      ]
+    },
+    "MWE_KEY=[[9, 94, [4, 5, 6]]]": {
+      "type": "RE-ANNOT",
+      "target_categ": "IRV",
+      "target_mwe": [
+        "se",
+        "produce"
+      ],
+      "source_categ": "IRV",
+      "source_mwe": [
+        "se",
+        "va",
+        "produce"
       ]
     }
   }
